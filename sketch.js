@@ -8,7 +8,7 @@ function setup() {
   createCanvas(600, 600);
   angleMode(DEGREES);
   colorMode(HSB);
-  //noLoop();
+  noLoop();
 }
 
 function draw() {
